@@ -1,6 +1,6 @@
 # Learning Ember
 
 ## Tutorials
-### Ember Quickstart
-
-### SuperRentals
+### EmberJS.com
+* Ember Quickstart
+* SuperRentals
