@@ -2,5 +2,6 @@
 
 ## Tutorials
 ### EmberJS.com
-* Ember Quickstart
-* SuperRentals
+- [x] Ember Quickstart
+- [x] SuperRentals Part 1
+- [ ] SuperRentals Part 2
